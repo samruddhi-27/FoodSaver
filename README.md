@@ -1,12 +1,13 @@
 FOODSAVER Project
 FOODSAVER is a project focused on reducing food wastage by connecting food donors with charities. Our platform simplifies the process of donating surplus food, ensuring it reaches those in need efficiently.
-
+HACK SUMMIT 4.0 WINNER
 Features:
 Easy Donation: User-friendly interface for seamless food donation.
 Efficient Matching: Utilizes geolocation to connect donors with nearby charities.
 Transparency: Provides visibility into the donation and distribution process.
 Recognition:
 Presented at a hackathon, FOODSAVER showcased its potential for social impact and received positive feedback for its simplicity and practicality.
+
 
 Future Plans:
 We aim to enhance FOODSAVER and extend its reach to support communities globally. Join us in making a difference through technology.
